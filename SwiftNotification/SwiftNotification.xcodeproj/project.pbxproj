@@ -13,6 +13,7 @@
 		18871B671C506BF500A13C04 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18871B661C506BF500A13C04 /* Assets.xcassets */; };
 		18871B6A1C506BF500A13C04 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18871B681C506BF500A13C04 /* LaunchScreen.storyboard */; };
 		18871B751C506BF500A13C04 /* SwiftNotificationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18871B741C506BF500A13C04 /* SwiftNotificationTests.swift */; };
+		18871B801C506E0A00A13C04 /* IXXTableVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18871B7F1C506E0A00A13C04 /* IXXTableVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		18871B701C506BF500A13C04 /* SwiftNotificationTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftNotificationTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18871B741C506BF500A13C04 /* SwiftNotificationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftNotificationTests.swift; sourceTree = "<group>"; };
 		18871B761C506BF500A13C04 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18871B7F1C506E0A00A13C04 /* IXXTableVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IXXTableVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				18871B5F1C506BF500A13C04 /* AppDelegate.swift */,
 				18871B611C506BF500A13C04 /* ViewController.swift */,
+				18871B7F1C506E0A00A13C04 /* IXXTableVC.swift */,
 				18871B631C506BF500A13C04 /* Main.storyboard */,
 				18871B661C506BF500A13C04 /* Assets.xcassets */,
 				18871B681C506BF500A13C04 /* LaunchScreen.storyboard */,
@@ -197,6 +200,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18871B801C506E0A00A13C04 /* IXXTableVC.swift in Sources */,
 				18871B621C506BF500A13C04 /* ViewController.swift in Sources */,
 				18871B601C506BF500A13C04 /* AppDelegate.swift in Sources */,
 			);
